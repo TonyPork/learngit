@@ -4,4 +4,5 @@ Git has a mutable index called stage
 git add
 My stupid boos still prefers svn
 create a new game and new poll
+new branch
 
